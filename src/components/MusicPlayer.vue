@@ -35,32 +35,32 @@ const playlist = [
   {
     title: 'Constant Moderato',
     artist: 'Mistukiyo',
-    cover: '/img/shiroko.png',
-    src: '/music/Constant Moderato.ogg',
+    cover: '/introduction/img/shiroko.png',
+    src: '/introduction/music/Constant Moderato.ogg',
   },
   {
     title: 'Daily Routine',
     artist: 'Nor',
-    cover: '/img/hoshino.png',
-    src: '/music/Daily Routine 247.ogg',
+    cover: '/introduction/img/hoshino.png',
+    src: '/introduction/music/Daily Routine 247.ogg',
   },
   {
     title: 'Luminous Memory',
     artist: 'Nor',
-    cover: '/img/azusa.png',
-    src: '/music/Luminous Memory.ogg',
+    cover: '/introduction/img/azusa.png',
+    src: '/introduction/music/Luminous Memory.ogg',
   },
   {
     title: 'Shooting Star',
     artist: 'KARUT',
-    cover: '/img/arona.png',
-    src: '/music/Shooting Stars.ogg',
+    cover: '/introduction/img/arona.png',
+    src: '/introduction/music/Shooting Stars.ogg',
   },
   {
     title: "You're My Princess",
     artist: 'EmoCosine',
-    cover: '/img/mika.png',
-    src: "/music/You're My Princess.ogg",
+    cover: '/introduction/img/mika.png',
+    src: "/introduction/music/You're My Princess.ogg",
   },
 ]
 
